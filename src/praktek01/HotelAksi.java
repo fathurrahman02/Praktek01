@@ -15,5 +15,22 @@ public class HotelAksi {
         Hotel VIP = new Hotel();
         Hotel VVIP = new Hotel();
         
+        Biasa.Kasur="Kasur Kecil";
+        Biasa.TV="TV 20 inc";
+        Biasa.AC="Tidak Ada";
+        Biasa.Lemari="Lemari 2 Pintu";
+        Biasa.Wifi="Tidak Ada";
+        
+        VIP.Kasur="Kasur Sedang";
+        VIP.TV="TV 30 inc";
+        VIP.AC="Ada AC";
+        VIP.Lemari="Lemari 3 Pintu";
+        VIP.Wifi="Ada Wifi";
+        
+        VVIP.Kasur="Kasur Besar";
+        VVIP.TV="TV 40 inc";
+        VVIP.AC="Ada AC";
+        VVIP.Lemari="Lemari 4 Pintu";
+        VVIP.Wifi="Ada Wifi";
     }
 }
