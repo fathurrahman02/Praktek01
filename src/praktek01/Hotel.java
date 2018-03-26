@@ -10,5 +10,17 @@ package praktek01;
  * @author Asus
  */
 public class Hotel {
+    String Kasur;
+    String TV;
+    String AC;
+    String Lemari;
+    String Wifi;
     
+    void cetakInfo(){
+        System.out.println("Kasur :"+Kasur);
+        System.out.println("TV :"+TV);
+        System.out.println("AC :"+AC);
+        System.out.println("Lemari :"+Lemari);
+        System.out.println("Wifi :"+Wifi);
+    }
 }
