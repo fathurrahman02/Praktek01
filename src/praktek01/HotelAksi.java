@@ -32,5 +32,12 @@ public class HotelAksi {
         VVIP.AC="Ada AC";
         VVIP.Lemari="Lemari 4 Pintu";
         VVIP.Wifi="Ada Wifi";
+        
+        Biasa.cetakInfo();
+        System.out.println();
+        VIP.cetakInfo();
+        System.out.println();
+        VVIP.cetakInfo();
+        System.out.println();
     }
 }
