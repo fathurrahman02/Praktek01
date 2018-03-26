@@ -11,6 +11,8 @@ package praktek01;
  */
 public class HotelAksi {
     public static void main(String[] args) {
-        
+        Hotel Biasa = new Hotel();
+        Hotel VIP = new VIP();
+        Hotel VVIP = new VVIP();
     }
 }
